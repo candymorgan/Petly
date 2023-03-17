@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Petly/static/css/main.4dfb467e.css",
+    "main.js": "/Petly/static/js/main.b510472a.js",
+    "static/js/787.02b9f620.chunk.js": "/Petly/static/js/787.02b9f620.chunk.js",
+    "static/media/cat.svg": "/Petly/static/media/cat.ca214a443c5d7d889bdc584d47abfadd.svg",
+    "static/media/dog2.svg": "/Petly/static/media/dog2.5284cdd474f229678fb5e6c92a288afc.svg",
+    "static/media/dog1.svg": "/Petly/static/media/dog1.b2c7fb9806e06654a9c3f620a289c98d.svg",
+    "static/media/bird.svg": "/Petly/static/media/bird.e58657400085abf02e2915f0584324e6.svg",
+    "static/media/dogpet.svg": "/Petly/static/media/dogpet.b502399abe2c255322f05c32e91f4e89.svg",
+    "static/media/catpet.svg": "/Petly/static/media/catpet.163d3c06ce64bce0e31eb597d9d13c8e.svg",
+    "static/media/stardesign.svg": "/Petly/static/media/stardesign.10fb1eb60a9dae85f7e4168025a41907.svg",
+    "static/media/night.svg": "/Petly/static/media/night.b43d5fd44c719651b27b5ff882f92997.svg",
+    "static/media/transDog.svg": "/Petly/static/media/transDog.b7f7fc9e0e5f359912889015df2cf4f5.svg",
+    "static/media/chain.svg": "/Petly/static/media/chain.43a90cbe306b8cdfcdf524c67c3b96ad.svg",
+    "static/media/blueDog.svg": "/Petly/static/media/blueDog.376d61b19f80198dc2f8e10c78c96fe1.svg",
+    "static/media/reptilepet.svg": "/Petly/static/media/reptilepet.e0d559decae94794b7d0cfcd3bb22ea1.svg",
+    "static/media/day.svg": "/Petly/static/media/day.f4baedc06ca5e875beeea744fa7ba0b8.svg",
+    "static/media/cancel.svg": "/Petly/static/media/cancel.00574e45f4910005218593a50310d15b.svg",
+    "static/media/circledesign.svg": "/Petly/static/media/circledesign.ae8d9256aab0af72b3da887654943850.svg",
+    "static/media/birdpet.svg": "/Petly/static/media/birdpet.cf840a011775aca9922624e111abfbcc.svg",
+    "static/media/rabbitpet.svg": "/Petly/static/media/rabbitpet.9824b84bdec9bc78ab8fde43f9ed2874.svg",
+    "static/media/location.svg": "/Petly/static/media/location.6dd35397a83a75515b93f3e0c43f87d8.svg",
+    "index.html": "/Petly/index.html",
+    "static/media/search.svg": "/Petly/static/media/search.eb345c4fc22a205712fc0572a541998b.svg",
+    "static/media/squaredesign.svg": "/Petly/static/media/squaredesign.afe5c2b637271efa255f025606e6269d.svg",
+    "main.4dfb467e.css.map": "/Petly/static/css/main.4dfb467e.css.map",
+    "main.b510472a.js.map": "/Petly/static/js/main.b510472a.js.map",
+    "787.02b9f620.chunk.js.map": "/Petly/static/js/787.02b9f620.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dfb467e.css",
+    "static/js/main.b510472a.js"
+  ]
+}
