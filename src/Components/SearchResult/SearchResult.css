@@ -1,0 +1,131 @@
+.searchCon{
+    background-color: #FFFFFF;
+    padding-top: 60px;
+    /* border: 1px solid red; */
+}
+
+/* .firstDisplayCon{
+    border: 1px solid blueviolet;
+} */
+
+.allImageCon{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid red; */
+    flex-wrap: wrap;
+}
+
+
+.imagee img{
+    height: 230px;
+    width: 279px;
+    /* border: 1px solid red; */
+}
+
+.imageCollectionCon{
+    width: 327px;
+    padding: 25px;
+    border: 1px solid#F0F6FF;
+    border-radius: 5px;
+    margin-top: 24px;
+    color: #58667E;
+}
+.lunaCon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.lunaCon img{
+    margin-top: 15px;
+    
+}
+
+.viewCon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 26px;
+    /* border: 1px solid green; */
+}
+
+.dogState{
+    display: flex;
+    padding-top: 8px;
+    gap: 15px;
+}
+.details{
+height: 39px;
+width: 121px;
+border-radius: 30px;
+background-color: #0D75FF;
+text-align: center;
+padding: 8px;
+color: #FFFFFF;
+text-decoration: none;
+
+}
+
+/* sytling the browsepet container ant it's items */
+
+.browseCon{
+    margin-top: 58px;
+    /* border: 1px solid orangered; */
+}
+
+.browseCon h2{
+    font-size: 36px;
+    color: #666879;
+}
+
+.diffPets{
+    display: flex;
+    gap: 20px;
+    padding-top: 40px;
+    /* border: 1px solid blue; */
+}
+
+.pet1{
+    height: 108px;
+    width: 118px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #F0F6FF;
+    color: #5F6472;
+}
+
+.pet1:hover{
+    border: 1px solid#0D75FF;
+    color:#0D75FF;
+}
+
+
+/* designing the last images container for this particluar component */
+
+.section2ImageCon{
+    margin-top: 53px;
+    /* border: 1px solid blue; */
+}
+
+.selctCon{
+    height: 51px;
+    width: 327px;
+    display: flex;
+    padding: 0 10px 0 10px;
+    background-color: #F8FAFD;
+    border-radius: 5px;
+}
+
+.selctCon select{
+    width: 300px;
+    outline: none;
+    border: none;
+    padding: 15px;
+    color: #AFB6C1;
+    background-color: #F8FAFD;
+}
+
+.locatnIcon{
+    margin-top: 17px;
+}
+

@@ -1,0 +1,121 @@
+.skelCircle{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    background-color:#F0F6FF;
+    padding: 15px;
+
+}
+.innerCircle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #DBE2F4;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.skelName{
+    height: 30px;
+    width: 154px;
+    border-radius: 30px;
+    background-color: #DBE2F4;
+    animation: detailscale 3s linear infinite alternate;    
+}
+
+.skelBreed{
+    height: 17px;
+    width: 92px;
+    border-radius: 30px;
+    background-color: #DBE2F4;
+    margin-top: 11px;
+}
+
+.rightCircle{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color:#DBE2F4;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.skelnamePic{
+    height: 22px;
+    width: 154px;
+    border-radius: 30px;
+    background-color:#DBE2F4;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.imgSkelDisplay{
+    height: 223px;
+    width: 696px;
+    border-radius: 5px;
+    background-color: #DBE2F4;
+    margin-top: 34px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+
+.smallSkelImg{
+    height: 97px;
+    width: 158px;
+    border-radius: 5px;
+    background-color: #DBE2F4;
+    margin-top: 57px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.firstSkel{
+    height: 22px;
+    width: 154px;
+    border-radius: 30px;
+    background-color:#DBE2F4;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.secondSkel{
+    height: 10px;
+    width: 610px;
+    border-radius: 30px;
+    background-color:#DBE2F4;
+    margin-top: 24px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.thirdSkel, .fourthSkel{
+    height: 10px;
+    width: 578px;
+    border-radius: 30px;
+    background-color: #DBE2F4;
+    margin-top: 11px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.fifthSkel{
+    height: 39px;
+    width: 133px;
+    border-radius: 5px;
+    background-color: #DBE2F4;
+    margin-top: 18px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+.adoptNameSkel{
+    height: 47px;
+    width: 155px;
+    border-radius: 30px;
+    background-color: #DBE2F4;
+    margin-top: 26px;
+    animation: detailscale 3s linear infinite alternate;
+}
+
+@keyframes detailscale {
+    0% {
+        background-color: hsl(200, 20%, 70%);
+    }
+
+    100% {
+        background-color: hsl(150, 20%, 95%);
+        
+    }
+ }

@@ -1,0 +1,41 @@
+.modalCon{
+    height: 319px;
+    width: 510px;
+    /* border: 1px solid red; */
+    margin: 0 auto;
+    text-align: center;
+    padding: 70px 40px 0 40px;
+    color:#344062;
+    background-color: #FFFFFF;
+    position: fixed;
+    top: 20%;
+    left: 35%;
+    
+}
+.modalCon span{
+    color: #F15827;
+}
+
+.lastInnerCon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.adptPet{
+    height: 46px;
+    width: 164px;
+    background-color: #0D75FF;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cancel{
+    height: 46px;
+    width: 164px;
+    padding-top: 10px;
+    background-color:#F3F5FB;
+    cursor: pointer;
+
+}

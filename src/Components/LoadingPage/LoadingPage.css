@@ -1,0 +1,108 @@
+.loadingCon{
+    padding-top: 60px;
+    /* border: 1px solid red; */
+}
+.imagesLoadingCon{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 48px;
+    
+    /* border: 1px solid red; */
+}
+
+/* .loadingCon .petlyDiv{
+    border: 1px solid blue;
+} */
+
+.im{
+    margin-top: 24px;
+    width: 327px;
+    padding: 25px;
+    border: 1px solid #F0F6FF;
+    
+}
+
+
+.im > .imge{
+    height: 165px;
+    width: 277px;
+    background-color: #E9EEF5;
+    animation: scale 1s linear infinite alternate;
+}
+.firstCon{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nameCon{
+    height: 16px;
+    width: 105px;
+    border-radius: 10px;
+    background-color: #F0F6FF;
+    animation: scale 1s linear infinite alternate;
+
+}
+.breedCon{
+    height: 6px;
+    width: 74px;
+    background-color: #F0F6FF;
+    border-radius: 10px;
+    margin-top: 7px;
+    animation: scale 1s linear infinite alternate;
+}
+.roundCon{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #F0F6FF;
+    animation: scale 1s linear infinite alternate;
+}
+
+.secondCon{
+    margin-top: 23px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondLeftCon{
+    height: 39px;
+    width: 121px;
+    border-radius: 30px;
+    background-color: #F0F6FF;
+    animation: scale 1s linear infinite alternate;
+}
+
+.secondRightCon{
+    display: flex;
+    gap: 15px;
+    
+}
+
+.secondRoundCon{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: #F0F6FF;
+    animation: scale 1s linear infinite alternate;
+}
+.otherCon{
+    height: 16px;
+    width: 68px;
+    border-radius: 10px;
+    background-color: #F0F6FF;
+    margin-top: 6px;
+    animation: scale 1s linear infinite alternate;
+
+}
+@keyframes scale {
+    0% {
+        background-color: hsl(200, 20%, 70%);
+    }
+
+    100% {
+        background-color: hsl(150, 20%, 95%);
+        
+    }
+ }

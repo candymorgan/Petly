@@ -1,0 +1,106 @@
+.detailsCon{
+    width: 760px;
+    margin: 0 auto;
+    padding-top: 150px;
+    /* border: 1px solid red; */
+}
+
+.detailsTopCon{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid magenta; */
+}
+
+.detailsLeftCon{
+    display: flex;
+    gap: 25px;
+}
+
+.detailsDogpetCon{
+    padding-top: 25px;
+}
+
+
+
+.alphabetCon{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: #F0F6FF;
+}
+
+.detailsDogName h3{
+    font-size: 36px;
+}
+
+.detailsImageDisplayCon{
+    margin-top: 28px;
+    background-color: #F8FAFD;
+    padding: 30px;
+    /* border: 1px solid lawngreen; */
+}
+
+.detailsImageCon{
+    margin-top: 24px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    padding: 15px;
+    /* border: 1px solid blue; */
+}
+
+.detailsImageCon img{
+    height: 260px;
+    width: 663px
+}
+
+
+.smallImagesCon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 17px;
+}
+
+.detailsImages img{
+    height: 97px;
+    width: 158px;
+    border-radius: 5px;
+    /* border: 1px solid magenta; */
+}
+
+.detailsDescription{
+    width: 696px;
+    padding: 25px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    text-align: justify;
+    margin-top: 22px;
+    color: #58667E;
+    /* border: 1px solid yellow; */
+}
+
+.detailsLocation{
+    height: 41px;
+    width: 190px;
+    display: flex;
+    padding: 10px;
+    gap: 10px;
+    background-color:#F0F6FF;
+    color: #0D75FF;
+    margin-top: 10px;
+
+}
+
+.adoptCon{
+    height: 48px;
+    width: 170px;
+    border-radius: 30px;
+    background-color: #0D75FF;
+    text-align: center;
+    padding: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+    margin-top: 46px;
+    }
